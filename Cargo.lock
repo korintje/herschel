@@ -500,14 +500,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "egui_template"
-version = "0.1.0"
-dependencies = [
- "eframe",
- "serde",
-]
-
-[[package]]
 name = "egui_web"
 version = "0.13.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -702,6 +694,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3da5951a1569dbab865c6f2a863efafff193a93caf05538d193e9e3816d21696"
 dependencies = [
  "gl_generator",
+]
+
+[[package]]
+name = "herschel"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+ "serde",
 ]
 
 [[package]]
