@@ -1,8 +1,8 @@
 [package]
-name = "egui_template"
+name = "herschel"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emilernerfeldt@gmail.com>"]
-edition = "2018"
+authors = ["Takuro Hosomi <t.hosomi1410@gmail.com>"]
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
